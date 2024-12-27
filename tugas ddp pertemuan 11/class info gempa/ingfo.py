@@ -1,0 +1,1 @@
+# memanggil info gempa dan import semua meto
